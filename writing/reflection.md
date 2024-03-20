@@ -32,31 +32,31 @@ TODO: Provide a detailed response to this question in at least one paragraph
 
 ## Costs of the Program
 
-### Explain the complexity of deepcopy, citing any sources used
+### What are the costs and benefits of using deepcopy?
 
 TODO: Provide a detailed response to this question in at least one paragraph,
 citing any sources used
 
-### Explain the complexity of `in`, citing any sources used
+### Explain the costs and benefits of `in`, citing any sources used
 
 TODO: Provide a detailed response to this question in at least one paragraph,
 citing any sources used
 
-### Explain the complexity of .remove(), citing any sources used
+### Explain the costs and benefits of .remove(), citing any sources used
 
 TODO: Provide a detailed response to this question in at least one paragraph,
 citing any sources used
 
-### Explain the complexity of .append(), citing any sources used
+### Explain the costs and benefits of .append(), citing any sources used
 
 TODO: Provide a detailed response to this question in at least one paragraph,
 citing any sources used
 
-### Explain the complexity of tuple concatenation with +=, citing any sources used
+### Explain the costs and benefits of tuple concatenation with +=, citing any sources used
 
 TODO: Provide a detailed response to this question in at least one paragraph,
 citing any sources used
 
-### Explain the costs of nested loops, citing any sources used
+### Explain the costs and benefits of nested loops, citing any sources used
 
 TODO: Provide a response to this question, citing any sources used
